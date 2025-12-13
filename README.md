@@ -26,7 +26,7 @@
 | Units Sold | จำนวนหน่วยที่ขายได้ | Numeric |
 | Total Sales | ยอดขายรวม | Numeric |
 | Operating Profit | กำไรจากการดำเนินงาน | Numeric |
-| ... | ... | ... |
+
 
 ---
 
@@ -47,7 +47,7 @@
 •	กำหนดระดับนัยสำคัญ **α = 0.05**
 •	เครื่องมือที่ใช้: **Microsoft Excel**
 
-ภาพ
+<img width="281" height="65" alt="one way anova" src="https://github.com/user-attachments/assets/ed191356-bade-4e27-925c-516e728fa80e" />
 
 ## ✅ Statistical Conclusion (ข้อสรุปเชิงสถิติ)
 
@@ -61,30 +61,32 @@
 
 ## ⭐ Major Findings and Insights (ผลการค้นพบหลัก)
 
-![Profit and Sales by month of date](https://github.com/user-attachments/assets/96f5997f-ba56-4f19-8353-9c0a7107de6e)
+
+<img width="553" height="347" alt="Profit and Sales by month of date" src="https://github.com/user-attachments/assets/5c496673-9c57-4a7d-9206-86c57f3eb156" />
 ### 1) แนวโน้มยอดขายและกำไร (2020 → 2021)
 - Sales และ Profit มีแนวโน้มเพิ่มขึ้นอย่างชัดเจนตั้งแต่ปี 2020 → 2021
 - เส้นแนวโน้ม (Trend line) ของทั้งสองตัวชี้วัดเป็น “ขาขึ้น” สะท้อนการเติบโตของธุรกิจโดยรวม
-
-ภาพ
+--
+<img width="398" height="317" alt="Corr Heatmap" src="https://github.com/user-attachments/assets/0b37e854-8196-431c-9d0a-ec52d26e98c8" />
 ### 2) Correlation Heatmap
 - Units Sold เป็นปัจจัยหลักที่ขับเคลื่อน Total Sales และ Operating Profit
 - แสดงให้เห็นว่า ปริมาณการขาย เป็นตัวแปรสำคัญที่สุดในการเพิ่มทั้งยอดขายรวมและกำไรจากการดำเนินงาน
-
-- 
-ภาพ
+--
+  
+<img width="545" height="343" alt="Sale Medthod" src="https://github.com/user-attachments/assets/438889c0-9a4f-4722-92d3-b742be1505c0" />
 ### 3) ช่องทาง In-store ยังสร้างยอดขายสูงสุด
 - ช่องทาง **In-store** ยังคงสร้างยอดขายรวมสูงสุด
 - สะท้อนว่าร้านหน้าร้านยังเป็นช่องทางหลักในการสร้างรายได้ของ Adidas
 - แม้พฤติกรรมผู้บริโภคจะเปลี่ยนไปสู่ดิจิทัลมากขึ้น แต่ยอดขาย Online ยังตามหลังช่องทางออฟไลน์
+--
 
-ภาพ
+<img width="553" height="343" alt="Product and Sales" src="https://github.com/user-attachments/assets/735b89bf-0a7e-4a4c-8e70-363805910513" />
 ### 4) ภาพรวมด้านสินค้า (Product Mix)
 - **Men’s Street Footwear** ทำยอดขายสูงสุด → สะท้อนความนิยมรองเท้าแนว Lifestyle/Street ในกลุ่มลูกค้าชาย
 - **Women’s Apparel** ยังมีศักยภาพ → กลุ่มลูกค้าผู้หญิงมี Demand สูงในสินค้า Apparel มากกว่ารองเท้ากีฬา
 - **Women’s Athletic Footwear** มียอดขายต่ำสุด → อาจเกิดจาก Positioning/ความต้องการตลาดไม่ตรงกลุ่ม
 
-ภาพ
+<img width="377" height="344" alt="Correlation Sales and unit sold" src="https://github.com/user-attachments/assets/7b4cd31c-6ee7-4f5b-b377-7677f60b296e" />
 ### 5) Units Sold เป็นตัวขับเคลื่อนยอดขายหลัก (Sales Driver)
 - เมื่อ **Units Sold เพิ่มขึ้น → Total Sales เพิ่มขึ้นตามอย่างชัดเจน**
 - แสดงให้เห็นว่า Units Sold เป็นตัวขับเคลื่อนหลักของ Total Sales
