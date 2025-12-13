@@ -61,7 +61,7 @@
 
 ## ⭐ Major Findings and Insights (ผลการค้นพบหลัก)
 
-
+![Profit and Sales by month of date](https://github.com/user-attachments/assets/96f5997f-ba56-4f19-8353-9c0a7107de6e)
 ### 1) แนวโน้มยอดขายและกำไร (2020 → 2021)
 - Sales และ Profit มีแนวโน้มเพิ่มขึ้นอย่างชัดเจนตั้งแต่ปี 2020 → 2021
 - เส้นแนวโน้ม (Trend line) ของทั้งสองตัวชี้วัดเป็น “ขาขึ้น” สะท้อนการเติบโตของธุรกิจโดยรวม
