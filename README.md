@@ -46,9 +46,9 @@
 •	ใช้ **One-way ANOVA** เพื่อทดสอบความแตกต่างของค่าเฉลี่ย Total Sales ระหว่างช่องทางการขาย  
 •	กำหนดระดับนัยสำคัญ **α = 0.05**
 •	เครื่องมือที่ใช้: **Microsoft Excel**
-
+<br>
 <img width="281" height="65" alt="one way anova" src="https://github.com/user-attachments/assets/ed191356-bade-4e27-925c-516e728fa80e" />
-
+<br>
 ## ✅ Statistical Conclusion (ข้อสรุปเชิงสถิติ)
 
 จากการทดสอบ One-way ANOVA ที่ระดับนัยสำคัญ 0.05  
