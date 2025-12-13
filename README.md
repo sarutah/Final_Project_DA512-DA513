@@ -16,7 +16,7 @@
 ---
 
 ## 🧾 Data Dictionary
-| Column | Description (ตัวอย่างคำอธิบาย) | Type (Example) |
+| Column Name | Description | Type | Example |
 |---|---|---|
 | Retailer | ชื่อผู้ค้าปลีก/ร้านค้า | Categorical |
 | Region | ภูมิภาค | Categorical |
