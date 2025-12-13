@@ -71,34 +71,37 @@
 <img width="398" height="317" alt="Corr Heatmap" src="https://github.com/user-attachments/assets/0b37e854-8196-431c-9d0a-ec52d26e98c8" />
 
 
-<img width="553" height="347" alt="Profit and Sales by month of date" src="https://github.com/user-attachments/assets/5c496673-9c57-4a7d-9206-86c57f3eb156" />
-
-
 ### 2) Correlation Heatmap
 - Units Sold เป็นปัจจัยหลักที่ขับเคลื่อน Total Sales และ Operating Profit
 - แสดงให้เห็นว่า ปริมาณการขาย เป็นตัวแปรสำคัญที่สุดในการเพิ่มทั้งยอดขายรวมและกำไรจากการดำเนินงาน
 --
-  
-<img width="545" height="343" alt="Sale Medthod" src="https://github.com/user-attachments/assets/438889c0-9a4f-4722-92d3-b742be1505c0" />
+<img width="553" height="347" alt="Profit and Sales by month of date" src="https://github.com/user-attachments/assets/5c496673-9c57-4a7d-9206-86c57f3eb156" />
+
 
 ### 3) ช่องทาง In-store ยังสร้างยอดขายสูงสุด
 - ช่องทาง **In-store** ยังคงสร้างยอดขายรวมสูงสุด
 - สะท้อนว่าร้านหน้าร้านยังเป็นช่องทางหลักในการสร้างรายได้ของ Adidas
 - แม้พฤติกรรมผู้บริโภคจะเปลี่ยนไปสู่ดิจิทัลมากขึ้น แต่ยอดขาย Online ยังตามหลังช่องทางออฟไลน์
 --
+  
+<img width="545" height="343" alt="Sale Medthod" src="https://github.com/user-attachments/assets/438889c0-9a4f-4722-92d3-b742be1505c0" />
 
-<img width="553" height="343" alt="Product and Sales" src="https://github.com/user-attachments/assets/735b89bf-0a7e-4a4c-8e70-363805910513" />
 
 ### 4) ภาพรวมด้านสินค้า (Product Mix)
 - **Men’s Street Footwear** ทำยอดขายสูงสุด → สะท้อนความนิยมรองเท้าแนว Lifestyle/Street ในกลุ่มลูกค้าชาย
 - **Women’s Apparel** ยังมีศักยภาพ → กลุ่มลูกค้าผู้หญิงมี Demand สูงในสินค้า Apparel มากกว่ารองเท้ากีฬา
 - **Women’s Athletic Footwear** มียอดขายต่ำสุด → อาจเกิดจาก Positioning/ความต้องการตลาดไม่ตรงกลุ่ม
 
-<img width="377" height="344" alt="Correlation Sales and unit sold" src="https://github.com/user-attachments/assets/7b4cd31c-6ee7-4f5b-b377-7677f60b296e" />
+<img width="553" height="343" alt="Product and Sales" src="https://github.com/user-attachments/assets/735b89bf-0a7e-4a4c-8e70-363805910513" />
+
 
 ### 5) Units Sold เป็นตัวขับเคลื่อนยอดขายหลัก (Sales Driver)
 - เมื่อ **Units Sold เพิ่มขึ้น → Total Sales เพิ่มขึ้นตามอย่างชัดเจน**
 - แสดงให้เห็นว่า Units Sold เป็นตัวขับเคลื่อนหลักของ Total Sales
+
+<img width="377" height="344" alt="Correlation Sales and unit sold" src="https://github.com/user-attachments/assets/7b4cd31c-6ee7-4f5b-b377-7677f60b296e" />
+
+
 
 ---
 
