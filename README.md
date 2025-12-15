@@ -106,6 +106,40 @@
 - แสดงให้เห็นว่า Units Sold เป็นตัวขับเคลื่อนหลักของ Total Sales
 <img width="377" height="344" alt="Correlation Sales and unit sold" src="https://github.com/user-attachments/assets/7b4cd31c-6ee7-4f5b-b377-7677f60b296e" />
 
+### 6)	Foot Locker และ West Gear เป็น Retailer หลักที่สร้างยอดขายสูงสุด 
+-	แสดงให้เห็นว่า แสดงว่า Retailer กลุ่มนี้ มีฐานลูกค้าใหญ่ และเชี่ยวชาญสินค้า Street / Athletic
+-	Men’s Street Footwear เป็น “สินค้าทำเงินหลัก” ทุกช่องทาง เป็น Core Product ที่ขับเคลื่อน Total Sales
+-	ช่องทาง Online อย่าง Amazon และ Walmart มียอดขายต่ำกว่า
+-	แสดงให้เห็นว่า Retailer และ Product Category เป็นปัจจัยสำคัญที่ส่งผลต่อ Total Sales
+<img width="556" height="345" alt="512Total Sales by Retailer and Product Category" src="https://github.com/user-attachments/assets/b64ecf75-2c1e-4bb3-a70a-de8725cf0430" />
+
+### 7)  West เป็น Region ที่สร้างยอดขายสูงสุดอย่างชัดเจน 
+-	แสดงว่า ตลาดมีขนาดใหญ่, Demand สูง
+-	Northeast อยู่ในอันดับ 2 และเป็น Region ที่แข็งแรง ซึ่งมีศักยภาพในการ ขยายยอดขายเพิ่มเติม หากลงทุนเพิ่ม
+-	Midwest เป็น Region ที่ยอดขายต่ำสุด เป็น Region ที่ควรเร่งปรับกลยุทธ์ 
+<img width="521" height="346" alt="512Total Sales by Region" src="https://github.com/user-attachments/assets/833c7d9a-c7e9-460b-a817-a849f1021926" />
+
+### 8) Region West ทำยอดขายสูงสุดเกือบทุก Product Category 
+-	แสดงให้เห็นว่า มี Demand สูง,Product Mix แข็งแรงหลายหมวด
+-	Men’s Street Footwear คือสินค้าทำเงินอันดับ 1 ทุก Region เป็นสินค้า Mass + Lifestyle,ตอบโจทย์ลูกค้าหลากหลายกลุ่ม
+-	South มีขายในหมวดหมู่ Women’s Apparel สูงสุด ต่างจาก Region อื่นที่ Men’s Street Footwear นำ
+<img width="554" height="343" alt="512Total Sales by Product Category and Region" src="https://github.com/user-attachments/assets/e90c79b4-245e-4cfc-b20f-bfadd7d03c49" />
+
+### 9)	Region West มียอดขายสูงสุด แต่มีความผันผวนสูงเช่นกัน 
+-	จุดสูงสุดอยู่ช่วง May–July มีเทรนลงชัดเจนใน August–October ก่อนฟื้นตัวปลายปี มีความเสี่ยงจาก Seasonality
+-	Northeast ยอดขายสม่ำเสมอและเติบโตปลายปี แนวโน้มเพิ่มขึ้นชัดใน November–December ความผันผวนน้อยกว่า West เป็น Region ที่เสถียรและขยายได้ในระยะยาว
+-	 ทุก Region มีรูปแบบ Seasonality  ยอดขายโดยรวมสูงช่วง กลาง–ปลายปี
+<img width="556" height="353" alt="512Monthly Total Sales Trend by Region" src="https://github.com/user-attachments/assets/3735e9ad-c2a7-4381-bb36-276cead3c4a6" />
+
+### 10) South มี Operating Margin สูงที่สุด
+-	 แม้ยอดขายอาจไม่สูงสุด แต่ทำกำไรได้ดี การควบคุมต้นทุนมีประสิทธิภาพ เป็น Region ที่ มีคุณภาพของรายได้ (Profitability) สูง
+-	West ยอดขายสูง แต่ Margin ไม่ได้สูงที่สุด มีบางจุดที่ Outliers ต่ำ แสดงให้เห็นว่า อาจมีการแข่งขันด้านราคา หรือมีต้นทุนการขายสูง ดังนั้น West เป็น Volume-driven Region มากกว่า Margin-driven
+<img width="567" height="455" alt="Profit   Margin ตาม Region" src="https://github.com/user-attachments/assets/b3e2b2a6-fe7f-490f-9569-726d98f7990c" />
+
+### 11)	ทุก Region มีแนวโน้มฟื้นตัวชัดเจนในปี 2021
+-	ยอดขายของทุก Region ฟื้นตัวชัดเจน และมีลักษณะ Seasonality โดยยอดขายสูงช่วงกลางถึงปลายปี
+<img width="846" height="430" alt="Trend ของ Total Sales ตามเวลา (แยก Region)" src="https://github.com/user-attachments/assets/780df98f-3bdc-412d-b735-b1f8a263cb12" />
+
 
 
 ---
