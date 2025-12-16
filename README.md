@@ -197,6 +197,12 @@
 4. **ส่งเสริมการขายสินค้า Women’s Athletic Footwear**  
    ปรับกลยุทธ์ด้านราคา ทำโปรโมชั่นเฉพาะกลุ่ม เพิ่มการมองเห็นบนช่องทางออนไลน์
 
+5. **วางแผน Seasonality เชิงรุก (Proactive Planning)**
+   เพิ่มสต็อกและแคมเปญช่วง กลาง–ปลายปี ซึ่งเป็น Peak Season ทุก Region, ช่วง Aug–Oct (Low Season)
+
+6. **ยกกลยุทธ์ “Volume-driven” และ “Margin-driven” ตาม Region**
+   Region West → ควรโฟกัส Volume Optimization ใช้ Promotion เชิงปริมาณ แต่ต้องควบคุมต้นทุน, ลด Promotion ที่กด Margin มากเกินไป
+   Region South → ควรโฟกัส Profit Optimization รักษาโครงสร้างต้นทุน, ทดลอง Limited Collection หรือ premium product
 
 
 
